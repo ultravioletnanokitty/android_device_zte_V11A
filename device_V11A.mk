@@ -1,4 +1,4 @@
- ####### Device Makefile for ZTE V55/Optik #######
+ ######### Device Makefile for ZTE V11A ##########
  ### Copyright nobody because it's a fucking   ###
  ### Makefile and it's ridiculous to copyright ###
  ### such a document.            --ultraviolet ###
