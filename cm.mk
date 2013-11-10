@@ -5,7 +5,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/zte/V55/device_V11A.mk)
+$(call inherit-product, device/zte/V11A/device_V11A.mk)
 
 # Boot Animation
 TARGET_SCREEN_HEIGHT := 800
