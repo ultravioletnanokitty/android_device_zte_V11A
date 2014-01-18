@@ -4,7 +4,7 @@ Device Configuration for ZTE SmartTab 10 (V11A)
 Building
 ---------------
 
-Initialise the CM10.1 repo with the following:
+Initialise the CM10.2 repo with the following:
 
     repo init -u git://github.com/CyanogenMod/android.git -b cm-10.2
 
