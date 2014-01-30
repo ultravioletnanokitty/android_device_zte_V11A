@@ -12,7 +12,7 @@ Copy the device local manifest to the appropriate location:
 
 	mkdir .repo/local_manifests
 	wget https://raw.github.com/ultravioletnanokitty/android_device_zte_smarttab-common/cm-10.1/smarttab.xml -O .repo/local_manifests/smarttab.xml
-	
+
 Sync and build as usual:
 
 	repo sync
